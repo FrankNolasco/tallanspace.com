@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'FoundationTitlesHand';
+    src: url('/fonts/FoundationTitlesHand.eot');
+    src: local('/fonts/FoundationTitlesHand'),
+        url('/fonts/FoundationTitlesHand.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/FoundationTitlesHand.woff2') format('woff2'),
+        url('/fonts/FoundationTitlesHand.woff') format('woff'),
+        url('/fonts/FoundationTitlesHand.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
